@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # imdb_app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,4 +39,3 @@ npm run build
 =======
 # movies
 5 chick flick movies
->>>>>>> c2b0f597c9b6a59ba951ac8afc0d530e16cfccae
